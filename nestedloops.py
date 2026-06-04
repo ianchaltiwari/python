@@ -1,0 +1,19 @@
+#nested for loop
+for i in range(1,4):
+    for j in range(1,4):
+        print(i,j)
+
+
+
+
+#nested while loop
+i=1
+while i<=3:
+    j=1
+    while j<=3:
+        print(i,j)
+        j+=1
+    i+=1
+
+
+       
